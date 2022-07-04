@@ -1,6 +1,6 @@
 # School-System
 
-This is a school system done in Object oriented java using files and arraylists and data structure. 
+This is a school system done in Object oriented java using files and arraylists as a data structure. 
 Here I have described the operation that can be done by a user in my school (University of New York Tirana).
 The code is not in GUI, because this program is done only for learing purposes and showing abilities in OOP in JAVA.
  The program has 4 main classes.
