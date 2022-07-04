@@ -1,0 +1,5 @@
+Name: kris
+Age: 20
+ID: 123
+Program: unyt
+GPA: 3.2
