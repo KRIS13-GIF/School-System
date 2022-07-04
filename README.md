@@ -17,6 +17,8 @@ The code is not in GUI, because this program is done only for learing purposes a
 
 - All the operations are based in the student ID. 
 
+- Create for each student a specific file with an unique student_id
+
 
 
 # # Adding student's info into file and into arraylist. 
